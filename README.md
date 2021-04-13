@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Marcus
+- 🌱 I’m currently learning programming logic :)
