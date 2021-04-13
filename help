@@ -1,0 +1,20 @@
+1) Assinale a alternativa correta em relação a quantidade de vezes que a palavra "PAZ" será impressa, no trecho de código abaixo:
+
+int main () {
+
+int x = 50;
+	do{
+		int y = 8;
+		do{
+			cout<<"PAZ \n";
+			y++;
+			} while ( y <10);
+	x--;
+	}while ( x > 48);
+}
+
+a)4 vezes (correta)
+b)7 vezes
+c)8 vezes
+d)5 vezes
+
