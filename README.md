@@ -1,2 +1,2 @@
-- 👋 Hi, I’m Marcus
-- 🌱 I’m currently learning programming logic :)
+- 👋 Hi, I’m Marcus!
+- 🌱 I’m currently studying to be full stack developer (:
